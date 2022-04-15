@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sikelaszlo
-- 👀 I’m interested in data processing online learning solutions
+- 👀 I’m interested in data processing and online learning solutions
 - 🌱 I’m currently learning C#
 <!-- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...-->
